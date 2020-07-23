@@ -18,11 +18,11 @@ eventType = {"1" : "birthday",
 
 product_price = {"000000":12.99,"000001":45.99,"000003":100.99,"000004":70, "000005":12,"000006":33}
 
-paytype = {"visa" : 1, "master-card":2, "amex":3,"vishwa":4, "cash":5}
+paytype = {"visa" : 1, "main-card":2, "amex":3,"vishwa":4, "cash":5}
 
 paytype_reverse = {
                     0 : "Visa Card",
-                    1 : "Master-card",
+                    1 : "Main-card",
                     2 : "Amercian Express Card",
                     3 : "Vishwa Card",
                     4 : "Cash"
